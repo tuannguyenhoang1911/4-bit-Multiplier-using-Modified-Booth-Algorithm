@@ -41,7 +41,7 @@ end entity;
 ---------------------------------------------------------
 
 
-architecture rtl of ProjectSFQ is
+architecture rtl of Multiplier is
 
 -- declare --
 signal x,y,d,d1       :  std_logic_vector(3 downto 0);
